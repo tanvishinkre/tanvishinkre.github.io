@@ -342,7 +342,7 @@ a:click {
   line-height: 550px;
   border-radius: 1000px;
   overflow: hidden;
-  background: #008b8b;
+  background: none;
   position: relative;
   color: white;
 }
