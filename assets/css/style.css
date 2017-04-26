@@ -349,6 +349,10 @@ a:click {
   z-index: 100;
 }
 
+#map_pic{
+  z-index: 50;
+}
+
 .marker{
   width: 12px;
   height: 12px;
