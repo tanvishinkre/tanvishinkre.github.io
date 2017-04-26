@@ -331,7 +331,7 @@ a:click {
   text-align: center;
   background: #008b8b;
   position: absolute;
-  z-index: 1;
+  z-index: 100;
 }
 
 .map{
@@ -346,7 +346,7 @@ a:click {
   background: none;
   position: relative;
   color: white;
-  z-index: 100;
+  z-index: 1;
 }
 
 .marker{
